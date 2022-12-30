@@ -1,0 +1,221 @@
+body {
+    font-family: 'Inter', sans-serif;
+    width: 1600px;
+    margin: auto;
+}
+.container {
+    width: 1400px;
+    margin: auto;   
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+/* header_nav */
+.header_nav {
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+}
+.box1 {
+    width: 30%;
+    margin: auto;
+    padding-top: 45px;
+}
+.box1 img {
+    width: 40%;
+}  
+.box2 {
+    padding-right: 100px;
+    padding-top: 50px;
+}
+.box2 a {
+    text-decoration: none;
+    color: rgb(58, 58, 58);
+    font-size: 20px;
+    font-weight: 700;
+    padding-right: 40px;
+}
+.box2 a:hover {
+    color: blue;
+}
+.box3 a {
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    
+}
+.box4 a {
+    text-decoration: none;
+    color: aliceblue;
+    background-color: green;
+    padding: 20px;
+    font-size: 20px;
+}
+.box4 a:hover {
+    background-color: rgb(46, 46, 84);
+}
+/* title1 tag */
+.title1 {
+    height: auto;
+    background-size: cover ;
+    background-repeat:no-repeat;
+    margin-bottom: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+} 
+.boxone_1 {
+    width: 40%;
+    margin: auto;
+}
+/* title2 tag */
+.boxthree1 img {
+    width: 100%;
+}
+.boxthree2 {
+    text-align: center;
+    font-size: 35px;
+    padding: 250px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+    
+.boxthree3 img {
+    width: 100%;
+    padding-bottom: 100px;
+}
+/* title3 tag */
+.title3 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.boxfour_1 {
+    width: 35%;
+    margin: auto;
+}
+.boxfour_1 h1 {
+    font-size: 50px;
+    font-weight:500;
+}
+.boxfour_1 p {
+    font-size: 20px;
+    font-weight: 300;
+}
+.boxfour_1 a {
+    text-decoration: dashed;
+    color: black;
+    background-color: aliceblue;
+    font-size: 30px;
+}
+.boxfour_1 a:hover {
+    color: green;
+}
+/* title4 tag */
+.title4 {
+    background-color: rgb(57, 54, 54);
+    padding-left: 100px;
+}
+.boxfive_1 img {
+    width: 100%;
+    padding: 20px;
+}
+.boxfive_2 {
+    width: 45%;
+    margin: auto;
+}
+.boxfive_2 h1 {
+    font-size: 60px;
+    font-weight: 500;
+}
+.boxfive._2 h5 {
+    font-size: 50px;
+    font-weight: 300;
+}
+.boxfive_2 a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+.boxfive_2 a:hover {
+    color: blue;
+}
+
+/* title5 tag */
+.title5 {
+    width: 100px;
+    padding-top: 100px;
+}
+.boxsix_1 {
+    width: 40%;
+    margin: auto;
+}
+.boxsix_1 h1 {
+    font-size: 60px;
+    font-weight: 300;
+}
+.boxsix_1 h5 {
+    font-size: 20px;
+    font-weight: 300;
+}
+.boxsix_1 a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+.boxsix_1 a:hover {
+    color: blue;
+}
+.boxsix_2 img {
+    width: 130%;
+    padding-right: 20px;
+}
+/* title6 tag */
+.title6 {
+    padding-top: 100px;
+}
+.boxseveen_2 {
+    width: 40%;
+    margin: auto;
+}
+.boxseveen_2 h1 {
+    font-size: 80px;
+    font-weight: 400;
+}
+.boxseveen_2 h5 {
+    font-size: 25px;
+    font-weight: 200;
+}
+.boxseveen_2 a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.boxseveen_2 a:hover {
+    color: blue;
+}
+.boxseveen_1 img {
+    width: 100%;
+}
+/* title7 tag */
+.title7 {
+    padding-top: 100px;
+}
+.boxeight_1 {
+    width: 45%;
+    margin: auto;
+}
+.boxeight_1 h1 {
+    font-size: 80px;
+    font-weight: 300;
+}
+.boxeight_1 h5 {
+    font-size: 20px;
+    font-weight: 200;
+}
+.boxeight_1 a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+.boxeight_1 a:hover {
+    color: blue;
+}
